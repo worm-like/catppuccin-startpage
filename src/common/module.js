@@ -1,4 +1,5 @@
 const components = {
+  "search-bar": Searchbar,
   "status-bar": Statusbar,
   "current-time": Clock,
   "weather-forecast": Weather,
